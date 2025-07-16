@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="12" meta:paragraph-count="246" meta:word-count="248" meta:character-count="20731" meta:non-whitespace-character-count="19508"/><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">0</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1973622</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1973622</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Liberation Mono" style:font-family-asian="&apos;Liberation Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Preformatted_20_Text">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text">&lt;urls&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-s-Locations-and-Receiving-Hours&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Schedule-a-Dock-Appointment&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Storage&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/View-Shipment-Tracking-Information&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Address-Format-Guidelines&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-the-United-States&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Dimensional-Weight&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Your-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Dangerous-Goods-HAZMAT-Product-Examples&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Scheduling-a-Dock-Appointment-on-Opendock&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Accounting-Billing-Breakdown&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-Canada&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/login/?locale=us&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Configuring-TikTok-Shop-Seller-Shipping&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-Status&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/CartBob-ShipBob-s-Real-Time-Rate-App&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/How-do-I-get-in-touch-with-ShipBob-s-Merchant-Care-team&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Canada-Prohibited-and-Restricted-Items-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Developer-API&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Packaging-Shipping-Fragile-Items&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Triple-Whale-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-WMS&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Overview-of-ShipBob-Hubs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Bulk-Update-Product-Details-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1eiWAC/news-updates&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Product-Details-Page-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Bundle-Products-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/International-Shipping-from-Canada-Supported-Destinations&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-Australia/&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Create-and-Track-Return-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Identical-Products&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Dashboard-Homepage&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-2-Day-Express&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ART-Analytics-Reporting-Tool&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/FBA-Prep-with-ShipBob&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shipstation-Shopify-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/AfterShip-Tracking-Overview-Getting-Started&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Customers-Page&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Approved-Retailers-for-Dropshipping-Retail-Distribution&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-Pricing-Information&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-s-turnaround-times-policies-and-SLAs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Analytics-and-Reporting-Warehousing-Storage-Fees&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Create-a-B2B-Wholesale-Order&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-Australia&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Analytics-and-Reporting-Inventory-Snapshot&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Apps-Integrations&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Export-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Linnworks-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Locations-Page&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Analytics-and-Reporting-Inventory-Velocity-Report&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Serial-Numbers-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/dataspark&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-the-United-States/&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Required-Signature-at-Delivery&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Case-Packed-Items&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shopify-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Standard-Packaging&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Reorder-Notification-Points-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Amazon-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Third-Party-Integrations-Documentation&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Amazon-FBA-Common-Errors-and-Troubleshooting&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Inventory-Transfers&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shipment-Details-Page&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/eBay-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1eEWAS/apps-integrations-api&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Walmart-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Billable-Weight-Estimator&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Digital-Products-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Zapier-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adding-ShipBob-to-Multiple-Locations-in-Shopify&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1edWAC/growth-plan&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shopify-Inventory-Quantities-Sync&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/CartBob-Resources&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shopify-Features-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Add-Insurance-to-Shipments&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Inventory-Status-Page&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Operations-Errors-Policies&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Alloy-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Customs-Information&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shipping-Media-Mail&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shopify-Managed-Markets&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Receiving-Process&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Inventory-History&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/GST-FAQs-Australia-Canada-Fulfillment&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/CA-Fulfillment-Center-Additional-Services-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/US-Prohibited-and-Restricted-Items-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/United-Kingdom-Fulfillment-Center-B2B-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/SPS-Commerce-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Orders-in-On-Hold-Status&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Freight-FAQs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Understanding-Inventory-Terms&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-US-Sort-Centers&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Editing-Rescheduling-Canceling-an-Appointment-in-Opendock&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Manage-Multiple-Shopify-Stores-from-One-Place&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Donate-Dispose-Inventory&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1fCWAS/pricing-billing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Onboarding-Dashboard&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-Auto-Split-Rules&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Integrate-your-online-store-s&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Additional-Services-Pricing/&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Analytics-Dashboard-Homepage&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1eTWAS/faqs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Prime-Penguin-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shipped-Order-Requests-Address-Update-Expedite-or-Intercept&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Orders-Report&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-Pickup-Logs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adobe-Commerce-formerly-Magento-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Pick-By-Lot-B2B-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Proposition-65&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/What-Amazon-orders-can-ShipBob-fulfill&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Gift-Notes&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-the-United-Kingdom/&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Billing-Overview-Page-in-the-ShipBob-Dashboard&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Sync-Import-and-Create-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/WooCommerce-2-day-setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Lost-and-Damage-in-Transit-FAQs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Klaviyo-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-Allocation-at-ShipBob&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adding-Wire-Transfer-as-Direct-Debit-Payment-Method-for-ShipBob-Dashboards-Configured-to-USD&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Freight-Services-Supporting-Process&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Automated-FBA-Prep-Overview&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Enabling-Local-Currency&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Getting-Started-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Packing-Slips&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/BigCommerce-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adobe-Commerce-formerly-Magento-Features-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Account-Settings&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/API-Token-Generation-Personal-Access-Token&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Send-Inventory-WRO-ShipBob-Labels&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-FIFO-Rules&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shopify-Fulfillment-Tracking-Upload&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Destination-Based-Fulfillment-Rules&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Skubana-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/CartBob-Rules&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Edit-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Available-Ship-Options-and-Average-Carrier-Transit-Times-by-Country-of-Origin&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/De-Kitting&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/FlavorCloud-Self-Onboarding&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Need-help-fulfilling-your-Amazon-orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Capital&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Kitting&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Custom-Branded-Packing-Slips-for-WMS-Merchants&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Package-Size-and-Package-Weight-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/How-to-Sell-on-Walmart-with-ShipBob&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Clean-Sweep-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Fulfillment-SLA-Exceptions&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/FBA-LTL-Workflow&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Optional-SKU-Fields-in-Product-Details-Template&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-s-Standard-Operations&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Retail-Dropshipping&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-s-Inventory-Placement-Program-IPP&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shipment-Settings-Address-Auto-correct&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adding-BACS-as-Direct-Debit-Payment-Method-for-ShipBob-Dashboards-Configured-to-GBP&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Get-Updates-for-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Lost-in-Transit-and-Damage-Claims&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/QuickBooks-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Orders-Page-Overview&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/2025-General-Rate-Increases&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/CartBob-Troubleshooting&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Cymbio-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/How-to-Donate-Inventory-through-GiveNkind&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Canada-Fulfillment-Center-B2C-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Australia-Fulfillment-Center-B2B-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipStation-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Product-Catalog-Page-Overview&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Walmart-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adding-Variants-to-Products-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Customize-Order-Documents-Marketing-Inserts&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Saving-Updating-and-Deleting-Views-on-the-Product-Catalog-Page&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/CIN7-Inventory-Management-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Manage-Dangerous-Goods-HAZMAT-Items&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Inventory-Planner-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Create-a-Test-Order&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/BigCommerce-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Notifying-ShipBob-about-Significant-Increases-in-Order-Volume&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/AfterShip-Returns-Overview-Getting-Started&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Send-Inventory-to-ShipBob-WRO-Best-Practice&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Australia-Prohibited-and-Restricted-Items-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Pick-Up-Shipments&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Ship-Option-Mapping&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Custom-Routing-for-Receiving-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1exWAC/products-inventory&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/WooCommerce-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Send-Inventory-to-ShipBob-WRO&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Notifications-Panel&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-DDP&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Sync-Products-to-the-ShipBob-Dashboard&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-2-Day-Shipping-Badges&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Additional-Services-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Automation-Rules&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/United-States-Fulfillment-Center-B2C-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Returns-at-ShipBob&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Canada-Fulfillment-Center-B2B-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Quick-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Split-Order-in-Exception-Status&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Inventory-Map-and-Distribution&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/NetSuite-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Analytics-and-Reporting-Fulfillment-Cost-and-Speed-Report&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-2025-Holiday-Schedule-Building-Closures&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shopify-Integration-FAQs&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Fulfillment-SLA-Badges&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Squarespace-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Lot-Products-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/United-States-Fulfillment-Center-B2B-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Happy-Returns-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/createcase&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Copy-or-Cancel-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/How-can-I-have-SKUs-packaged-separately&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-s-MiniBob-App&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Battery-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Wix-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Prohibited-and-Restricted-Items-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Skubana-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/WMS-Additional-Services-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Move-Orders-to-On-Hold-Release-On-Hold-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/WRO-Floor-Loaded-Containers&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/2024-Demand-Surcharge-for-the-US&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/User-Management-Settings&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Retail-Distribution&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Troubleshooting-Declined-Payments-in-the-ShipBob-Dashboard&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/UK-Prohibited-and-Restricted-Items-Policy&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Gorgias-Features-and-Capabilities&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/International-shipping-from-the-UK-Supported-Destinations&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-the-Netherlands&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/ShipBob-Fulfillment-in-the-United-Kingdom&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Importing-Shopify-B2B-Orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Business-Information-Verification-Existing-Merchants&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/EU-Fulfillment-Center-B2C-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Start-Shipping-Date&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/topic/0TO6S000008P1enWAC/orders&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Square-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Shipping-Undelivered-Shipments&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Custom-Packaging-in-the-Product-Catalog&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Order-Desk-Integration-Guide&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Returns-at-ShipBob/&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Fulfil-io-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Walmart-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Adding-BECS-as-Direct-Debit-Payment-Method-for-ShipBob-Dashboards-Configured-to-AUD&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Lost-in-Transit-and-Damage-Claims-Freight&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/Orders-in-Exception-Status&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/AU-Fulfillment-Center-Additional-Services-Pricing&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url&gt;https://support.shipbob.com/s/article/WooCommerce-Initial-Setup&lt;/url&gt;&#x0d;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;url</text:p>
+  </office:text>
+ </office:body>
+</office:document>
